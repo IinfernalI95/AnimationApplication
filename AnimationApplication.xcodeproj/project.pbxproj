@@ -13,6 +13,7 @@
 		758D5BD229898766006F61AA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 758D5BD029898766006F61AA /* Main.storyboard */; };
 		758D5BD429898768006F61AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 758D5BD329898768006F61AA /* Assets.xcassets */; };
 		758D5BD729898768006F61AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 758D5BD529898768006F61AA /* LaunchScreen.storyboard */; };
+		758D5BDF29899686006F61AA /* Extencion + UIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 758D5BDE29899686006F61AA /* Extencion + UIButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		758D5BD329898768006F61AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		758D5BD629898768006F61AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		758D5BD829898768006F61AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		758D5BDE29899686006F61AA /* Extencion + UIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extencion + UIButton.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				758D5BD329898768006F61AA /* Assets.xcassets */,
 				758D5BD529898768006F61AA /* LaunchScreen.storyboard */,
 				758D5BD829898768006F61AA /* Info.plist */,
+				758D5BDE29899686006F61AA /* Extencion + UIButton.swift */,
 			);
 			path = AnimationApplication;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				758D5BCF29898766006F61AA /* ViewController.swift in Sources */,
 				758D5BCB29898766006F61AA /* AppDelegate.swift in Sources */,
 				758D5BCD29898766006F61AA /* SceneDelegate.swift in Sources */,
+				758D5BDF29899686006F61AA /* Extencion + UIButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
